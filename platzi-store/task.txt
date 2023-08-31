@@ -1,0 +1,7 @@
+crear controladores para
+* order
+* user
+* customer
+* category
+* product
+* brand
